@@ -15,3 +15,17 @@ h3 {
 table.button {
     text-transform: uppercase;
 }
+
+th.callout-inner {
+    border:none!important;
+    img {
+        margin:0 auto;
+
+    }
+    p {
+        color:$white;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+}
