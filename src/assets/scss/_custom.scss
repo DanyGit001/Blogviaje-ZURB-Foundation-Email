@@ -18,14 +18,17 @@ table.button {
 
 th.callout-inner {
     border:none!important;
-    img {
-        margin:0 auto;
-
-    }
+    
     p {
         color:$white;
         text-align: center;
         text-transform: uppercase;
         font-weight: bold;
     }
+}
+
+p.footer-text {
+    color:$primary-color;
+    font-size: 18px;
+    font-weight: bold;
 }
